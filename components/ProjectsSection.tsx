@@ -9,24 +9,16 @@ const projects = [
     name: "Project OU",
     description:
       "Project OU is a website that provides Ontario high school students with information and tips about applying to university",
-    image: "/projou.png",
-    github: "https://github.com/hqasmei/thankful-thoughts",
-    link: "https://thankfulthoughts.io/",
+    image: "/projou.svg",
+    github: "https://github.com/klau1011/Project-OU-Client",
+    link: "https://project-ou-client.vercel.app/",
   },
   {
     name: "Metrolinx Data Visualizations",
-    description: "PlatoIO is a to do list app that built using the PERN stack.",
+    description: "A data visualization app to gain meaningful insights on your Metrolinx user data",
     image: "/transitdata.png",
-    github: "https://github.com/hqasmei/platoio",
-    link: "https://platoio.com/register",
-  },
-  {
-    name: "Kator Family Photos",
-    description:
-      "Kator Family Photos is a photos and video digitization service in the LA area.",
-    image: "/familyphotos.png",
-    github: "https://github.com/hqasmei/katorfamilyphotos",
-    link: "https://katorfamilyphotos.com/",
+    github: "https://github.com/klau1011/metrolinx-transit-insights",
+    link: "https://metrolinx-transit-insights.streamlit.app/",
   },
 ]
 

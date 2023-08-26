@@ -34,7 +34,7 @@ const AboutSection = () => {
             </p>
             <br />
             <p>
-              In my free time, some things I like to watch sports, cube, and play chess.
+              In my free time, some things I like to do include watching sports, cubing, and playing chess.
               I am always seeking new experiences and love to keep myself
               engaged and learning new things.
             </p>

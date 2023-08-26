@@ -8,7 +8,7 @@ const experiences = [
     duration: "May 2023 - Aug 2023",
     description:
       "Created an API module to fetch printable book metadata. Refactored Docker images and configured a GitLab CI/CD pipeline, leading to 53% faster build times",
-    technologies: ["PHP", "Docker", "GitLab"],
+    technologies: ["PHP", "Docker", "Linux", "GitLab"],
   },
   {
     role: "Full-Stack Developer",

@@ -16,19 +16,9 @@ const HeroSection = () => {
             <span className="font-semibold text-teal-600">
               Software Developer{" "}
             </span>
-            based in Ontario, Canada. Learning more software day by day.
+            based in Ontario, Canada. Learning more everyday.
           </p>
-          <Link
-            to="projects"
-            className="text-neutral-100 font-semibold px-6 py-3 bg-teal-600 rounded shadow hover:bg-teal-700 cursor-pointer"
-            activeClass="active"
-            spy={true}
-            smooth={true}
-            offset={-100}
-            duration={500}
-          >
-            Projects
-          </Link>
+        
         </div>
       </div>
       <div className="flex flex-row items-center text-center justify-center ">
