@@ -20,6 +20,14 @@ const projects = [
     github: "https://github.com/klau1011/metrolinx-transit-insights",
     link: "https://metrolinx-transit-insights.streamlit.app/",
   },
+  {
+    name: "Jobify",
+    description: "Job tracking portal to manage your applications. Includes a visualized dashboard with easy-to-read summaries.",
+    image: "/jobify.svg",
+    github: "https://github.com/klau1011",
+    link: "https://job-tracking-portal.onrender.com/",
+  }
+
 ]
 
 const ProjectsSection = () => {

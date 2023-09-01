@@ -23,8 +23,8 @@ const experiences = [
     company: "Midnight Sun",
     duration: "Sep 2022 - Present",
     description:
-      "Made scripts to retreive CAN bus data from the solar vehicle to a MySQL database",
-    technologies: ["Python", "MySQL", "Pandas"],
+      "Made scripts to retreive CAN bus data from the solar vehicle to a MySQL database. Setup Flask endpoint to host telemetric data for dashboard usage.",
+    technologies: ["Python", "MySQL", "Flask", "Pandas"],
   },
 ];
 
