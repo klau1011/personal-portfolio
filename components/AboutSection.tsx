@@ -8,8 +8,7 @@ const skills = [
   { skill: "React" },
   { skill: "Node/Express" },
   { skill: "MongoDB" },
-  { skill: "MySQL" },
-  { skill: "PostgreSQL" },
+  { skill: "SQL" },
   { skill: "Git" },
   { skill: "HTML/CSS" },
 ]

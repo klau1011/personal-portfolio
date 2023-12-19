@@ -3,6 +3,14 @@ import SlideUp from "./SlideUp";
 
 const experiences = [
   {
+    role: "Software Developer (Co-op)",
+    company: "Mobials",
+    duration: "Jan 2024 - Current",
+    description:
+      "TBD",
+    technologies: ["TBD"],
+  },
+  {
     role: "Full-Stack Developer (Co-op)",
     company: "WStore",
     duration: "May 2023 - Aug 2023",
@@ -64,6 +72,8 @@ const ExperienceSection = () => {
                   </div>
                 </div>
               </div>
+              <hr className="h-px my-8 bg-gray-200 border-0 dark:bg-gray-700"></hr>
+
             </SlideUp>
           </div>
         ))}

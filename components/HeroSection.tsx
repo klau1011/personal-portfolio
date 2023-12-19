@@ -16,7 +16,7 @@ const HeroSection = () => {
             <span className="font-semibold text-teal-600">
               Software Developer{" "}
             </span>
-            based in Ontario, Canada. Learning more everyday.
+            studying Engineering at the University of Waterloo
           </p>
         
         </div>
